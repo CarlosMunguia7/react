@@ -1,0 +1,35 @@
+.md-twitter{ 
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: .8rem;
+}
+
+.md-twitter-header{
+    display: flex;
+    align-items: center;
+    gap: 4px
+}
+
+.md-twitter-info{   
+    display: flex;
+    flex-direction: column;
+}
+
+.md-twitter-infouser{
+    opacity: .6;
+}
+
+.md-twitter-avatar{
+    width: 48px;
+    height: 48px;
+    border-radius: 1000px;
+}
+
+.md-twitter-button{
+    margin-left: 16px;
+    border: 0;
+    border-radius: 999px;
+    padding: 6px 16px;
+    font-weight: bold;
+}
